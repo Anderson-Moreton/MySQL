@@ -21,7 +21,7 @@ section img {
 }
 
 main {
-    border-bottom: solid 1px;
+    border-bottom: solid 1px #ccc;
     padding-bottom: 40px;
 }
 
